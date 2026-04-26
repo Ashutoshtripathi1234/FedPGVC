@@ -1,5 +1,7 @@
 ## Harnessing Heterogeneity: Improving Partial Variance Control in Federated Learning for Image Classification
-This repository contains the code for the paper "Harnessing Heterogeneity: Improving Partial Variance Control in Federated Learning for Image Classification".
+This repository contains the code for the paper "Harnessing Heterogeneity: Improving Partial Variance Control in Federated Learning for Image Classification" accpeted at Transactions on Machine Learning Research (TMLR) 2026.
+
+Paper link: https://openreview.net/forum?id=I9VhJ5iLNr
 
 # Dependencies
 - Tensorflow = 2.10.0
